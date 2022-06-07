@@ -1,0 +1,6 @@
+com/nasa/apodapplication/databinding/ActivityMainBinding.java
+ com.nasa.apodapplication.databinding.ActivityMainBinding
+com/nasa/apodapplication/BuildConfig.java
+ com.nasa.apodapplication.BuildConfig
+com/nasa/apodapplication/DataBindingTriggerClass.java
+ com.nasa.apodapplication.DataBindingTriggerClass
